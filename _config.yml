@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "SHI Zhiyuan"
+title                    : "Zhiyuan's Homepage"
 title_separator          : "-"
 name                     : &name "SHI Zhiyuan"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I am currently a Ph.D. candidate at Tongji University and a visiting Ph.D. student at the Hong Kong Polytechnic University."
   location         : "China"
-  employer         : "Tongji University/ The Hong Kong Polytechic University"
+  employer         : "Tongji U & PolyU"
   uri              : # URL
   email            : "2211231@tongji.edu.cn" 
 
