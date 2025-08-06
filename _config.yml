@@ -22,7 +22,7 @@ repository               : "SzyTjU/SzyTjU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "SHI Zhiyuan (施致远)"
   pronouns         : # example: "she/her"  
   bio              : "I am currently a Ph.D. candidate at Tongji University and a visiting Ph.D. student at the Hong Kong Polytechnic University."
